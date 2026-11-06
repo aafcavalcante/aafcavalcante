@@ -1,5 +1,60 @@
-## Hi there 👋
+<h1 align="left">Hi! I'm Arthur Cavalcante 👋</h1>
 
+<div style="display: flex; align-items: center;">
+  <p align="left">Connect with me:</p>
+  <a href="" target="_blank" style="margin-left: 8px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="28" alt="LinkedIn logo" />
+  </a>
+</div>
+
+---
+
+### About Me
+
+I am currently pursuing a **Bachelor's Degree in Business Administration at the Pontifical Catholic University of Goiás (PUC Goiás)**, directing my career and studies toward **Data Analytics and Engineering**.
+
+I combine business strategy with analytical techniques, leveraging programming, statistical, and data manipulation to transform raw datasets into actionable insights and strategic solutions. I am continuously developing practical projects focused on programming and data analysis to solve real-world problems.
+
+---
+
+### Certifications
+
+* 📜 **Google Data Analytics Professional Certificate** – *Google*
+* ☁️ **Microsoft Certified: Azure Data Fundamentals (DP-900)** – *Microsoft*
+* 🐙 **GitHub Foundations (GH-900)** – *GitHub*
+
+---
+
+### Tech Stack & Tools
+
+<div align="left">
+  <!-- Languages & Scripts -->
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  <img width="8" />
+
+  <!-- Cloud & Version Control -->
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
+  <img width="8" />
+
+  <!-- Databases & BI -->
+  <img src="https://img.shields.io/badge/SQL_%2F_DB-23272f?style=for-the-badge&logo=databricks&logoColor=F37626" height="40" alt="Databases / SQL" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Power_BI-23272f?style=for-the-badge&logo=powerbi&logoColor=F2C811" height="40" alt="Power BI" />
+</div>
+
+---
+
+### Core Focus & Methodologies
+
+* 📊 **Data Analytics:** Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning & Preprocessing.
+* 📈 **Business Intelligence:** KPI Definition, Business Metrics, Executive Reporting & Dashboarding.
+* 💡 **Strategic Focus:** Problem Solving, Critical Thinking, Data-Driven Decision Making.
 <!--
 **aafcavalcante/aafcavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
